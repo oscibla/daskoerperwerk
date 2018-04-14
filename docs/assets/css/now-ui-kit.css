@@ -2008,7 +2008,6 @@ fieldset[disabled] .btn-danger.active {
 .show>.btn-neutral.dropdown-toggle:hover {
     background-color: #FFFFFF;
     color: #FFFFFF;
-    box-shadow: none;
 }
 
 .btn-neutral:hover {
