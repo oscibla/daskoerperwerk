@@ -5549,7 +5549,12 @@ Created using IcoMoon - icomoon.io
     color: rgba(255, 255, 255, 0.5);
 }
 
-.page-header.page-header-small {
+.page-header .page-header-small {
+  height: 60vh;
+  max-height: 440px;
+}
+
+.page-header-big {
     height: 90vh;
     max-height: 900px;
 }
@@ -7548,6 +7553,7 @@ i {
   color: #FFFFFF;
   text-align: center;
   padding: 10px;
+  margin: 10px 0 10px 0;
 }
 .product h5,h4{
   text-transform: uppercase;
