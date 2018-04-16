@@ -7540,7 +7540,7 @@ i {
   font-size: 28px;
 }
 .site-title {
-  padding: 150px 0 15px 0;
+  padding: 10px 0 15px 0;
   margin: 150px 0 -50px 0;
 }
 .product {
@@ -7577,6 +7577,7 @@ i {
   background-color: #5AA897;
   padding: 5px 10px;
   line-height: 2em;
+  font-size: 20px;
 }
 .img-section {
   text-align: right;
