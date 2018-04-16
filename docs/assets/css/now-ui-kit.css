@@ -7704,9 +7704,9 @@ p {
 .img-round {
   border-radius: 50%;
 }
-@media screen (max-width: 991px) {
+@media screen and (max-width: 991px) {
   .site-title {
-    padding: 0 0 15 0;
+    padding: 0 0 15px 0;
   }
   .over-img {
     font-size: 20px;
