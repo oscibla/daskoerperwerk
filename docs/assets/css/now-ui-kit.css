@@ -7545,7 +7545,7 @@ i {
   font-size: 28px;
 }
 .site-title {
-  padding: 10px 0 15px 0;
+  padding: 150px 0 15px 0;
   margin: 150px 0 -50px 0;
 }
 .product {
@@ -7583,7 +7583,6 @@ i {
   background-color: #5AA897;
   padding: 5px 10px;
   line-height: 2em;
-  font-size: 20px;
 }
 .img-section {
   text-align: right;
@@ -7704,4 +7703,12 @@ p {
 }
 .img-round {
   border-radius: 50%;
+}
+@media screen (max-width: 991px) {
+  .site-title {
+    padding: 0 0 15 0;
+  }
+  .over-img {
+    font-size: 20px;
+  }
 }
