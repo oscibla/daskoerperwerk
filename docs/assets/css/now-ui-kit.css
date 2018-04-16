@@ -5550,8 +5550,8 @@ Created using IcoMoon - icomoon.io
 }
 
 .page-header.page-header-small {
-    height: 60vh;
-    max-height: 440px;
+    height: 90vh;
+    max-height: 900px;
 }
 
 .page-header:after,
@@ -7540,7 +7540,7 @@ i {
   font-size: 28px;
 }
 .site-title {
-  padding: 70px 0 15px 0;
+  padding: 150px 0 15px 0;
   margin: 150px 0 -50px 0;
 }
 .product {
