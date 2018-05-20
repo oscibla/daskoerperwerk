@@ -6046,7 +6046,7 @@ Created using IcoMoon - icomoon.io
     }
     .sidebar-collapse .navbar .navbar-nav.navbar-logo {
         top: 0;
-        
+
     }
     .sidebar-collapse .navbar .dropdown.show .dropdown-menu,
     .sidebar-collapse .navbar .dropdown .dropdown-menu {
@@ -7708,4 +7708,7 @@ p {
   .over-img {
     font-size: 20px;
   }
+}
+.h-product {
+  font-size: 1,51em;
 }
