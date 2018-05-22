@@ -2103,7 +2103,6 @@ fieldset[disabled] .btn-neutral.active {
 .show>.btn-neutral.dropdown-toggle:hover {
     background-color: #FFFFFF;
     color: #64B09F;
-    box-shadow: none;
 }
 
 .btn-neutral:hover,
@@ -7549,7 +7548,16 @@ i {
   background-color: #5AA897;
   color: #FFFFFF;
   padding: 0px;
-  margin: 10px;
+  margin: 10px 0 10px 0;
+  color: #FFFFFF;
+}
+.product:hover {
+  box-shadow: 0px 5px 35px 0px rgba(0, 0, 0, 0.3);
+  -webkit-transition: all 300ms ease 0s;
+  -moz-transition: all 300ms ease 0s;
+  -o-transition: all 300ms ease 0s;
+  -ms-transition: all 300ms ease 0s;
+  transition: all 300ms ease 0s;
 }
 .product-text {
   padding: 10px;
