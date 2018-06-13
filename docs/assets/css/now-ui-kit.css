@@ -7723,3 +7723,13 @@ p {
 .h-product {
   font-size: 20px;
 }
+.example {
+
+}
+.circle {
+  background-color: #5aa897;
+  color: #FFFFFF;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%
+}
