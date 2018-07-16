@@ -7563,7 +7563,7 @@ i {
   transition: all 300ms ease 0s;
 }
 .inactive:hover {
-  box-shadow: none;
+  box-shadow: 0px rgba(0,0,0,0);
 }
 .product-text {
   padding: 10px;
