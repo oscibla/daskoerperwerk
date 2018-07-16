@@ -7748,3 +7748,7 @@ p {
 .bg-gray {
   background-color: #f9f9f9;
 }
+.navbar .btn-neutral {
+  background-color: #5aa897;
+  color: #FFFFFF;
+}
