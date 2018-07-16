@@ -7562,8 +7562,8 @@ i {
   -ms-transition: all 300ms ease 0s;
   transition: all 300ms ease 0s;
 }
-.inactive:hover {
-  box-shadow: 0px rgba(0,0,0,0);
+.inactive{
+  box-shadow: none;
 }
 .product-text {
   padding: 10px;
