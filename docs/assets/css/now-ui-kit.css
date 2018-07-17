@@ -7759,3 +7759,6 @@ p {
 .fa-calendar {
   color: #FFFFFF !important;
 }
+.img-light-round {
+  border-radius: 5px;
+}
