@@ -7762,3 +7762,12 @@ p {
 .img-light-round {
   border-radius: 5px;
 }
+.thin-container {
+  padding-left: 20px; padding-right: 20px;
+}
+.thin-container h4 {
+  font-size: 14px;
+}
+.thin-container p {
+  font-size: 13px;
+}
