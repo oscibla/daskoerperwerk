@@ -7825,13 +7825,13 @@ outline: none;
     font-size: 22px;
   }
   .gfooter {
-    max-height: 700px;
+    max-height: 650px;
     padding-bottom: 0;
   }
 }
 .gfooter {
 position: relative;
-height: 650px;
+height: 1550px;
 overflow: hidden;
 width: 100%;
 }
