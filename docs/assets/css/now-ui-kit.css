@@ -7843,3 +7843,57 @@ left: 0;
 width: 100%;
 height: 100%;
 }
+.img-dark {
+  background-color: rgba(0, 0, 0, 0.6)
+}
+/* Style the button that is used to open and close the collapsible content */
+.collapsible {
+background-color: #f2f2f2;
+color: #5aa897;
+cursor: pointer;
+padding: 18px;
+width: 100%;
+border: none;
+text-align: left;
+outline: none !important;
+font-size: 15px;
+margin: 3px;
+text-shadow: none;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .collapsible:hover {
+background-color: #ececec;
+}
+
+/* Style the collapsible content. Note: hidden by default */
+.content {
+padding: 0 18px;
+display: none;
+overflow: hidden;
+background-color: #f1f1f1;
+}
+.content {
+    padding: 0 18px;
+    background-color: white;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
+.collapsible:after {
+    content: '+'; /* Unicode character for "plus" sign (+) */
+    font-size: 16px;
+    float: right;
+    margin-left: 5px;
+    font-weight: bold;
+}
+
+.active:after {
+    content: "-"; /* Unicode character for "minus" sign (-) */
+}
+.team h6 {
+  color: #5aa897;
+}
+.team h3 {
+  margin-bottom: 7px;
+}
