@@ -7563,7 +7563,7 @@ i {
   transition: all 300ms ease 0s;
 }
 .inactive {
-  box-shadow: none;
+  box-shadow: none !important;
 }
 .product-text {
   padding: 10px;
