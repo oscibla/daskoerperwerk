@@ -7916,12 +7916,13 @@ background-color: #f1f1f1;
 			display: block;
 			}
 			.btn-action {
-				height: 3rem!important;
-				min-width: 3rem!important;
+				height: 2.7rem!important;
+				min-width: 2.7rem!important;
+				padding: 11px 23px;
 			}
 			.btn-action-icon {
-				width: 3rem!important;
-			}
+				width: 2.7rem!important;
+			}	
 		}
 		.action-buttons {
 			position: fixed;
@@ -7949,4 +7950,8 @@ background-color: #f1f1f1;
 		}
 		.navbar-nav {
 			font-size: 16px;
+		}
+		.site-active {
+			background-color: rgba(229, 229, 229, 0.3)!important;
+			border-radius: 3px;
 		}
