@@ -7900,11 +7900,11 @@ background-color: #f1f1f1;
   padding: 0 40px 0 40px;
 }
 		.desktop-only {
-	 
+
 			display: block;
 		}
 		.mobile-only {
-	 
+
 			display: none;
 		}
 		@media screen and (max-width: 991px) {
@@ -7912,7 +7912,7 @@ background-color: #f1f1f1;
 				display: none;
 			}
 			.mobile-only {
-	 
+
 			display: block;
 			}
 			.btn-action {
@@ -7922,7 +7922,7 @@ background-color: #f1f1f1;
 			}
 			.btn-action-icon {
 				width: 2.7rem!important;
-			}	
+			}
 		}
 		.action-buttons {
 			position: fixed;
@@ -7955,3 +7955,6 @@ background-color: #f1f1f1;
 			background-color: rgba(229, 229, 229, 0.3)!important;
 			border-radius: 3px;
 		}
+    .ohnetattoo {
+      
+    }
